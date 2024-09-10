@@ -14,12 +14,7 @@ export default function Dmca() {
             <div id="dmca-section">
                 <div id="dmca-content">
                     <div>
-                        <p>We take the intellectual property rights of others seriously and require that our users do the same. 
-                            The Digital Millennium Copyright Act (DMCA) established a process for addressing claims of copyright infringement. 
-                            If you believe that any content on our website is infringing upon your copyrights, please send us an email. 
-                            Please allow up to 2-5 business days for a response. 
-                            Please note that emailing your complaint to other parties such as our Internet Service Provider, Hosting Provider, 
-                            and other third parties will not expedite your request and may result in a delayed response due to the complaint not being filed properly.
+                        <p>Staten Is The best
                         </p>
                     </div>
                     <div>

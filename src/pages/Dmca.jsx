@@ -20,11 +20,11 @@ export default function Dmca() {
                     <div>
                         <p>Credits</p>
                         <ul>
-                            <li>Cullin Main Dev</li>
-                            <li>Nicholas Kimberley UI Designer</li>
-                            <li>Staten Tester;</li>
-                            <li>Adam Coder;</li>
-                            <li>Cameron Tester;</li>
+                            <li>Culli027 Main Dev</li>
+                            <li>Copper Bum UI Designer</li>
+                            <li>The OG Stat Tester;</li>
+                            <li>Addi Coder;</li>
+                            <li>Pencilcase Tester;</li>
                     
                         </ul>
                     </div>
